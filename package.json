@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JesusantonioBecerra/asynchronous-course/issues"
   },
-  "homepage": "https://github.com/JesusantonioBecerra/asynchronous-course#readme"
+  "homepage": "https://github.com/JesusantonioBecerra/asynchronous-course#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
