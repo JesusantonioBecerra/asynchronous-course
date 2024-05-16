@@ -1,0 +1,22 @@
+{
+  "name": "asynchronous-course",
+  "version": "1.0.0",
+  "description": "asynchronous course in platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusantonioBecerra/asynchronous-course.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Jesus Becerra bercerra.jesusantonio@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JesusantonioBecerra/asynchronous-course/issues"
+  },
+  "homepage": "https://github.com/JesusantonioBecerra/asynchronous-course#readme"
+}
