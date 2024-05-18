@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "callback": "node src/callback/challenge.js",
+    "promise": "node src/promise/challenge.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +22,8 @@
   },
   "homepage": "https://github.com/JesusantonioBecerra/asynchronous-course#readme",
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }

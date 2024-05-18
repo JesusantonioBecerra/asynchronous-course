@@ -1,5 +1,6 @@
-const XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
-const API = 'https://api.escuelajs.co/api/v1';
+import XMLHttpRequest from "xmlhttprequest";
+import * as constants from "./../const.cjs";
+const API = constants.default.constants.API;
 
 function fetchData(urlApi, callback) {
   let xhttp = new XMLHttpRequest();
