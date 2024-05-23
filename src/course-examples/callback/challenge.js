@@ -1,5 +1,5 @@
 import XMLHttpRequest from "xmlhttprequest";
-import * as constants from "./../const.cjs";
+import * as constants from "../../const.cjs";
 const API = constants.default.constants.API;
 
 function fetchData(urlApi, callback) {
