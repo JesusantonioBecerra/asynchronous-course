@@ -26,5 +26,8 @@
     "node-fetch": "^3.3.2",
     "xmlhttprequest": "^1.8.0"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
